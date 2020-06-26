@@ -1,0 +1,8 @@
+name: EasyChatColors
+version: 1.0
+author: honeybadger10
+main: dev.james.ecc.EccMain
+commands:
+  chatcolors:
+    description: Open The ChatColor Menu
+    usage: /<command>
